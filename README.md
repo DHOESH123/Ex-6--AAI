@@ -1,5 +1,5 @@
-<H3>NAME: KAMESH R R</H3>
-<H3>REGISTER NO: 212223230095</H3>
+<H3>NAME: ESHWAR T</H3>
+<H3>REGISTER NO: 212223230054</H3>
 <H3>EX. NO.6</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <h3>Aim:</h3>
